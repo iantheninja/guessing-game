@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HigherOrLower</string>
+    <string name="guess">Guess</string>
+    <string name="ready_to_go">Ready to go</string>
+    <string name="computer_guessed">Computer guessed: %1$s</string>
+    <string name="empty_text" />
+</resources>
